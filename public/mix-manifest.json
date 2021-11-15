@@ -1,0 +1,22 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/app.min.js": "/js/app.min.js",
+    "/plugins/select2/CHANGELOG.md": "/plugins/select2/CHANGELOG.md",
+    "/plugins/select2/LICENSE.md": "/plugins/select2/LICENSE.md",
+    "/plugins/select2/package.json": "/plugins/select2/package.json",
+    "/plugins/select2/README.md": "/plugins/select2/README.md",
+    "/plugins/jquery-ui/AUTHORS.txt": "/plugins/jquery-ui/AUTHORS.txt",
+    "/plugins/jquery-ui/index.html": "/plugins/jquery-ui/index.html",
+    "/plugins/jquery-ui/jquery-ui.css": "/plugins/jquery-ui/jquery-ui.css",
+    "/plugins/jquery-ui/jquery-ui.js": "/plugins/jquery-ui/jquery-ui.js",
+    "/plugins/jquery-ui/jquery-ui.min.css": "/plugins/jquery-ui/jquery-ui.min.css",
+    "/plugins/jquery-ui/jquery-ui.min.js": "/plugins/jquery-ui/jquery-ui.min.js",
+    "/plugins/jquery-ui/jquery-ui.structure.css": "/plugins/jquery-ui/jquery-ui.structure.css",
+    "/plugins/jquery-ui/jquery-ui.structure.min.css": "/plugins/jquery-ui/jquery-ui.structure.min.css",
+    "/plugins/jquery-ui/jquery-ui.theme.css": "/plugins/jquery-ui/jquery-ui.theme.css",
+    "/plugins/jquery-ui/jquery-ui.theme.min.css": "/plugins/jquery-ui/jquery-ui.theme.min.css",
+    "/plugins/jquery-ui/LICENSE.txt": "/plugins/jquery-ui/LICENSE.txt",
+    "/plugins/jquery-ui/package.json": "/plugins/jquery-ui/package.json",
+    "/plugins/jquery-ui/README.md": "/plugins/jquery-ui/README.md"
+}
